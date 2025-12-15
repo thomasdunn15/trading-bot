@@ -1,6 +1,6 @@
-# TopStep Trading Bot
+# Topstep Trading Bot
 
-A Python-based automated trading bot that connects TradingView alerts to the TopStep trading platform via webhooks. The bot receives signals, places orders, and manages positions with trailing stops.
+A Python-based automated trading bot that connects TradingView alerts to the Topstep trading platform via webhooks. The bot receives signals, places orders, and manages positions with trailing stops.
 
 ## Features
 
