@@ -31,3 +31,6 @@ trading.log
 # OS
 .DS_Store
 Thumbs.db
+
+# ngrok.exe
+ngrok.exe
